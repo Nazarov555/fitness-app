@@ -26,7 +26,7 @@ const Navbar = () => {
             <a href="#exercises" 
                 style={{
                     textDecoration: 'none', 
-                    color: '#3A1212'
+                    color: '#000'
                 }}>
                 Exercises
             </a>
